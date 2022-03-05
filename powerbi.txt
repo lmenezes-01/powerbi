@@ -1,0 +1,34 @@
+PowerBI 
+
+INTRODUÇÃO: 
+- Business Intelligence 
+- Intuitivo 
+- Ensinar a tarefa para o PowerBI. 
+- Não precisa saber linguagem de programação, ele mesmo vira em linguagem M.
+- Alto volume de dados. 
+- Power Query, Dax (Data Analysis Expression), Linguagem M, Python e R. 
+- Integrações com vários Banco de Dados, Api e afins. 
+- Data Studio é mais precário. 
+- Gráfico dinâmico 
+- Dá para travar quem irá visualizar 
+- Constante evoulção
+
+CONHECENDO A FERRAMENTA:
+BI - Inteligência de negócios, e o objetivo da área é auxiliar na tomada de decisões
+da empresa baseada em dados.
+Por que o PowerBI?
+
+
+TRATANDO DADOS:
+Power Query 
+DAX - Criar medidas 
+M - ETL 
+
+CRIANDO MEDIDAS:
+Medidas implícitas - São medidas que o Power BI cria a partir da adição de uma 
+coluna calculada no campo Valor de um visual, ou seja, são medidas que você não 
+sabe como foram desenvolvidas.
+Medias explicitas - São as medidas que exibem a fórmula, ou seja, a linguagem DAX
+que foi desenvolvida para o cálculo. Também é possível nomeá-las.
+
+Criar uma medida deixa o carregamento da tabela mais leve. 
